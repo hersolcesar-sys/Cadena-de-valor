@@ -1,2 +1,14 @@
-# Cadena-de-valor
-La cadena de valor en ITIL se puede entender como una guía que explica cómo una organización utiliza sus recursos y actividades para convertirlos en servicios que realmente sean útiles para los usuarios.
+- [Inicio](Inicio.md)
+- [¿Qué es la cadena de valor?](Que-es-la-cadena-de-valor.md)
+- **Actividades**
+  - [Objetivos](objetivo.md)
+  - [Interacción](Interacción.md)
+  - [Innovar](Innovar.md)
+  - [Recursos](Recursos.md)
+  - [Entregas](Entregas.md)
+  - [Actualización](Actualización.md)
+- [Factores asociados](Factores-asociados.md)
+- [KPIs y métricas](KPIs-y-metricas.md)
+- [Ejemplos flujos de valor](Ejemplos-flujo-de-valor.md)
+- [Bibliografía](Bibliografia.md)
+- [Conclusiones](Conclusioness.md)
